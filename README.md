@@ -316,6 +316,4 @@ Potential improvements include:
 
 # Author
 
-  Halimatou Diallo
-
-  Halimatou Diallo
+  Halimatou
