@@ -310,10 +310,12 @@ Potential improvements include:
 - Event-driven risk evaluation
 - Kafka integration
 - Advanced observability
-
-  # Author
-
-  Halimatou Diallo
 - Distributed microservices
 - Kubernetes deployment
 - Cloud deployment
+
+# Author
+
+  Halimatou Diallo# Author
+
+  Halimatou Diallo
